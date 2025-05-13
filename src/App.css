@@ -1,0 +1,47 @@
+
+.App {
+  display: flex;
+  margin-top: 100px;
+  justify-content: center;
+}
+
+
+
+.time{
+  
+  display: flex;
+  justify-content: center;
+  align-items: center
+  width: 30%;
+
+}
+
+.btn {
+  display: flex;
+  justify-content: center;
+  ali
+  margin-left: -100px;
+
+}
+
+button {
+  
+  height: 40px;
+  width: 100px;
+  color: #00b39b;
+  background-color: #ffffff;
+  border: solid #00b39b  ;
+  border-width: 1.5px;
+  border-radius: 5px;
+}
+
+.resetb {
+ 
+  height: 40px;
+  width: 100px;
+  color: black;
+  background-color: #ffffff;
+  border: solid black  ;
+  border-width: 1.5px;
+  border-radius: 5px;
+}
